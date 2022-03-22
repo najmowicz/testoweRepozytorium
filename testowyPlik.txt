@@ -1,1 +1,2 @@
 Pamietniczek blablablablabla
+- nowa linia napisana w github desktop
