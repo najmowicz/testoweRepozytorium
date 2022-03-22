@@ -1,2 +1,3 @@
 Pamietniczek blablablablabla
-- nowa linia napisana w github desktop
+- nowa linia napisana w github desktop 
+- nowa linia napisana w VIMie
