@@ -2,3 +2,5 @@ Pamietniczek blablablablabla
 - nowa linia napisana w github desktop 
 - nowa linia napisana w VIMie
 - nowa linia napisana w koncie  najmowicz
+
+- s24285 - piszemy dalej ten plik - pytanie, czy to się zapisze u najmowicza?
